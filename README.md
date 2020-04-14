@@ -1,1 +1,1 @@
-# costa-azul-salesman
+A Vue project for the Operative Investigation course at the Universidad Tecnológica Nacional in Mar del Plata. It shows a particular example of the Travelling Salesman algorythm as applied to a real company, in which a single path is traveled, but the price of tickets between the nodes varies.
